@@ -1,0 +1,12 @@
+android-sdk
+ant
+caskroom/cask/brew-cask
+cloc
+docker-machine
+maven
+mercurial
+node
+openvpn
+python
+s3cmd
+wget
