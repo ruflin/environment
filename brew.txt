@@ -3,6 +3,7 @@ ant
 caskroom/cask/brew-cask
 cloc
 docker-machine
+go
 maven
 mercurial
 node

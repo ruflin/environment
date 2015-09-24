@@ -1,3 +1,6 @@
+java
+tuntap
+
 1password
 8tracksradiohelper
 bettertouchtool
@@ -10,6 +13,7 @@ google-chrome
 google-photos-backup
 google-earth-web-plugin
 heimdall-suite
+hipchat
 intellij-idea
 kitematic
 libreoffice
