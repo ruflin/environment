@@ -2,6 +2,8 @@ android-sdk
 ant
 caskroom/cask/brew-cask
 cloc
+docker
+docker-compose
 docker-machine
 go
 maven
