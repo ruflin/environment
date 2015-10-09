@@ -26,3 +26,5 @@ Manual work
 
 Command:
 git config --global core.editor "atom --wait"
+git config --global user.email "spam@ruflin.com"
+git config --global user.name "ruflin"
