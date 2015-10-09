@@ -3,6 +3,7 @@ tuntap
 
 1password
 8tracksradiohelper
+atom
 bettertouchtool
 chromecast
 crashplan

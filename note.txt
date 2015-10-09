@@ -1,0 +1,28 @@
+ruby install didn't work
+
+todo:
+- setup git globals
+** Primary to simple
+** username
+** email
+- generate ssh key
+- set $GOPATH
+- Create default boot2docker environment:
+** docker-machine create --driver=virtualbox --virtualbox-memory "2048" local
+
+
+Manual work
+* Install plugins intellj
+* Login Google Chrome
+* Make selective sync dropbox
+* Link 1Password
+* Configure Quicksilver
+* Enable iCloud
+* Install license of SizeUp
+* Install Wunderlist
+* Setup Evernote
+* Install 8Tracks Menu
+* Install baby phone 3g
+
+Command:
+git config --global core.editor "atom --wait"
