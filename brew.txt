@@ -1,4 +1,3 @@
-android-sdk
 ant
 caskroom/cask/brew-cask
 cloc

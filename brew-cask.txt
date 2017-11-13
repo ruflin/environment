@@ -2,11 +2,9 @@ java
 tuntap
 
 1password
-8tracksradiohelper
 atom
 bettertouchtool
 chromecast
-crashplan
 cyberduck
 dropbox
 evernote
@@ -14,9 +12,7 @@ google-chrome
 google-photos-backup
 google-earth-web-plugin
 heimdall-suite
-hipchat
 intellij-idea
-kitematic
 libreoffice
 little-snitch
 omnigraffle
@@ -24,8 +20,6 @@ quicksilver
 sketchup
 skype
 sizeup
-sourcetree
-spotify
 synology-cloud-station
 textmate
 transmission
