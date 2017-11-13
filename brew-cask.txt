@@ -6,6 +6,7 @@ atom
 bettertouchtool
 chromecast
 cyberduck
+docker
 dropbox
 evernote
 google-chrome
